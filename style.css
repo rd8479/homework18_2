@@ -7,3 +7,13 @@
 .width{
     width: 50%;
 }
+.bg{
+    height: 70vh;
+    background-color: gray;
+}
+.p{
+    font-size: 10rem;
+    font-weight: bolder;
+    text-align: center;
+    text-transform: capitalize;
+}
