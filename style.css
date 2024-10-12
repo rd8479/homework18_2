@@ -1,0 +1,9 @@
+@import url(./bootstrap-5.3.3/dist/css/bootstrap.min.css);
+.shadow{
+    max-width: 1300px;
+    margin:1rem auto ;
+    box-shadow: 0 2px 8px 0 0;
+}
+.width{
+    width: 50%;
+}
